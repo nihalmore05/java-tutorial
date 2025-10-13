@@ -7,8 +7,8 @@ public class Non_Primative {
         String n = "Nihal";
         String m = "More";
 
-        System.out.println("First Name:"  + n);
-        System.out.println("Laste Name:" + m);
+        System.out.println("First Name: "  + n);
+        System.out.println("Laste Name: " + m);
 
         // -----------  Class  -----------
         
